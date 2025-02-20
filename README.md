@@ -8,16 +8,16 @@ My name is **_Bartek_**, and I'm a passionate developer with a keen interest in 
 # Skills 
 **_Backend_**
 
-![Python](https://skillicons.dev/icons?i=python,java,kotlin)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com) [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
 
 **_Frontend_**
 
-![JavaScript](https://skillicons.dev/icons?i=html,css,javascript,typescript)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
 
 **_Databases_**
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres,mongodb)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 
 **_Tools_**
 
-![Git](https://skillicons.dev/icons?i=git,docker,linux&theme=light)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com) [![Linux](https://skillicons.dev/icons?i=linux&theme=light)](https://www.kernel.org)
