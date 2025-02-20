@@ -8,16 +8,16 @@ My name is **_Bartek_**, and I'm a passionate developer with a keen interest in 
 # Skills 
 **_Backend_**
 
-[![Python](https://skillicons.dev/icons?i=python,java,kotlin)](https://skillicons.dev)
+![Python](https://skillicons.dev/icons?i=python,java,kotlin)
 
 **_Frontend_**
 
-[![JavaScript](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://skillicons.dev)
+![JavaScript](https://skillicons.dev/icons?i=html,css,javascript,typescript)
 
 **_Databases_**
 
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres,mongodb)
 
 **_Tools_**
 
-[![Git](https://skillicons.dev/icons?i=git,docker,linux&theme=light)](https://skillicons.dev)
+![Git](https://skillicons.dev/icons?i=git,docker,linux&theme=light)
