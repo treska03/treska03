@@ -16,7 +16,7 @@ My name is **_Bartek_**, and I'm a passionate developer with a keen interest in 
 
 **_Databases_**
 
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres,mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres,mongodb)
 
 **_Tools_**
 
