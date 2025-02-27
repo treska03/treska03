@@ -1,11 +1,20 @@
 # Hi there! 👋
-My name is **_Bartek_**, and I'm a passionate developer with a keen interest in **backend development**. I enjoy crafting clean, reliable code in **Python**, **Java**, and **Kotlin**, and I’m always eager to learn and grow with new technologies.
+My name is **_Bartek_**, and I'm a passionate developer with a keen interest in **backend development**. I enjoy crafting clean, reliable code in **Python**, **Java**, and **Kotlin**, and I’m always eager to learn and grow with new technologies. 
 
-# Contact 
+# Personal website
+
+You can check out my personal website here: https://treska03.github.io/
+
+# _Contact_
+
+Feel free to contact me via any of these media
 
 [![in/bartlomiej-treska](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bartlomiej-treska/) [![bartlomiej.treska@gmail.com](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:bartlomiej.treska@gmail.com)
 
 # Skills 
+
+Here's a brief summary of my skills
+
 **_Backend_**
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com) [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org)
